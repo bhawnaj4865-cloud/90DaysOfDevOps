@@ -1,25 +1,24 @@
-Day -1 Lesson Plan 
+Day -1 Lesson Plan
 
-Current Level- On a Career Break
+Current Level: On a career break
 
-Three goals for next 90 Days:-
-1. Want to complete the full course with proper understanding
-2. Create atleast 10-20 projects to demonstarte and showcase my understanding
-3. Get a job as a devops engineer
+Three goals for the next 90 days:
+1. Complete the full course with proper understanding
+2. Create at least 10–20 projects to demonstrate and showcase my understanding
+3. Get a job as a DevOps engineer
 
-Three core DevOPS skills i want to build:-
+Three core DevOps skills I want to build:
 1. Linux troubleshooting
 2. Kubernetes debugging
-3. Complete Docker
+3. Docker (complete)
 
-Weekly time Budget- 6 Hours on weekdays and 4 hrs on weekends
+Weekly time budget: 6 hours on weekdays and 4 hours on weekends
 
-DevOPS - It is a culture/ Mindset which works to collaborate with development and OPs team by reducing the time to market, 
-automating the repetitive tasks and scale to end users. 
+DevOps — a culture/mindset that encourages collaboration between development and operations teams by reducing time to market, automating repetitive tasks, and scaling for end users.
 
-Cloud Computing- It basically means renting someones else copluter to someone on pay per use basis.
+Cloud computing — renting someone else's computer on a pay-per-use basis.
 
-- I am starting DevOPS and cloud as i have earlier worked on cloud environment and DevOPS is the next step
-to upskill in this domain
-- I want to be able to get into good remote product based company as a DevOPS engineer soon
-- I have already created a strict timetable that i will follow to complete the assignment and all the notes to remain consistent.
+Notes:
+- I am starting DevOps and cloud because I have earlier worked in cloud environments and DevOps is the next step to upskill in this domain.
+- I want to be able to get into a good remote product-based company as a DevOps engineer soon.
+- I have already created a strict timetable that I will follow to complete the assignments and keep consistent notes.
